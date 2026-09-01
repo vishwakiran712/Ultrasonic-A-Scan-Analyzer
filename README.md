@@ -8,6 +8,9 @@
 [![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange?logo=matplotlib)](https://matplotlib.org/)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<img width="966" height="510" alt="image" src="https://github.com/user-attachments/assets/5c671125-0914-4e34-98d2-bf06c4e2e96a" />
+
+
 ---
 
 ## 📌 Overview
